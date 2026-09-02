@@ -26,28 +26,25 @@ Her mentor will guide Maya through each stage of the journey using the steps bel
 1. **[Identify the Research Gap](#)**
 2. **[Develop the Research Question](#)**
 3. **[Choose the Appropriate Framework](#)**
-4. **[Develop Search Terms](#)**
-5. **[Test and Refine the Search](#)**
-6. **[Adapt the Search for Each Database](#)**
-7. **[Search the Databases](#)**
-8. **[Download the Search Results](#)**
-9. **[Manage References and Remove Duplicates](#)**
-10. **[Title and Abstract Screening](#)**
-11. **[Full-Text Screening](#)**
-12. **[Data Extraction](#)**
-13. **[Risk-of-Bias Assessment](#)**
-14. **[Decide Whether Meta-Analysis Is Appropriate](#)**
-15. **[Prepare the Data for Analysis](#)**
-16. **[Calculate Effect Sizes](#)**
-17. **[Conduct the Meta-Analysis](#)**
-18. **[Examine Heterogeneity](#)**
-19. **[Examine Moderators](#)**
-20. **[Conduct Meta-Regression](#)**
-21. **[Conduct Sensitivity Analysis](#)**
-22. **[Interpret the Findings](#)**
-23. **[Develop Evidence-Based Conclusions](#)**
-24. **[Make the Research Reproducible](#)**
-
- 
-
- 
+4. **[Develop and Register the Protocol](#)**
+5. **[Develop Search Terms](#)**
+6. **[Test and Refine the Search](#)**
+7. **[Adapt the Search for Each Database](#)**
+8. **[Search the Databases](#)**
+9. **[Download the Search Results](#)**
+10. **[Manage References and Remove Duplicates](#)**
+11. **[Title and Abstract Screening](#)**
+12. **[Full-Text Screening](#)**
+13. **[Data Extraction](#)**
+14. **[Risk-of-Bias Assessment](#)**
+15. **[Decide Whether Meta-Analysis Is Appropriate](#)**
+16. **[Prepare the Data for Analysis](#)**
+17. **[Calculate Effect Sizes](#)**
+18. **[Conduct the Meta-Analysis](#)**
+19. **[Examine Heterogeneity](#)**
+20. **[Examine Moderators](#)**
+21. **[Conduct Meta-Regression](#)**
+22. **[Conduct Sensitivity Analysis](#)**
+23. **[Interpret the Findings](#)**
+24. **[Develop Evidence-Based Conclusions](#)**
+25. **[Make the Research Reproducible](#)**
