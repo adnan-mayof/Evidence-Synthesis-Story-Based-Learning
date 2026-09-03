@@ -23,7 +23,7 @@ Together, Maya and her mentor will work through the questions, decisions, challe
 
 Her mentor will guide Maya through each stage of the journey using the steps below. **Each step links to a separate repository with its own story, learning activities, and assessment questions.**
 
-1. **[Identify the Research Gap](#)**
+1. **[Identify the Research Gap](https://github.com/adnan-mayof/Identify-a-Research-Gap/blob/main/README.md)**
 2. **[Develop the Research Question](#)**
 3. **[Choose the Appropriate Framework](#)**
 4. **[Develop and Register the Protocol](#)**
