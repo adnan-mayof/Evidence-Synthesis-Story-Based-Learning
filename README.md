@@ -31,7 +31,6 @@ Her mentor will guide Maya through each stage of the journey using the steps bel
 6. **[Develop and Register the Protocol](https://github.com/adnan-mayof/Develop-and-Register-the-Protocol)**
 7. **[Download and Manage the Search Results](https://github.com/adnan-mayof/Download-the-Search-Results/blob/main/README.md)**
 10. **[Title and Abstract Screening](https://github.com/adnan-mayof/Title-and-Abstract-Screening/blob/main/README.md)**
-11. **[Title and Abstract Screening](#)**
 12. **[Full-Text Screening](#)**
 13. **[Data Extraction](#)**
 14. **[Risk-of-Bias Assessment](#)**
