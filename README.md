@@ -28,8 +28,8 @@ Her mentor will guide Maya through each stage of the journey using the steps bel
 3. **[Develop Search Terms From PICO/PICOS](https://github.com/adnan-mayof/Develop-Search-Terms-From-PICO-PICOS/blob/main/README.md)**
 4. **[Test and Refine the Search](https://github.com/adnan-mayof/Test-and-Refine-the-Search-Strategy/blob/main/README.md)**
 5. **[Search the Databases](https://github.com/adnan-mayof/Search-the-Databases/)**
-7. **[Develop and Register the Protocol](https://github.com/adnan-mayof/Develop-and-Register-the-Protocol)**
-9. **[Download the Search Results](#)**
+6. **[Develop and Register the Protocol](https://github.com/adnan-mayof/Develop-and-Register-the-Protocol)**
+7. **[Download and Manage the Search Results](https://github.com/adnan-mayof/Download-the-Search-Results/blob/main/README.md)**
 10. **[Manage References and Remove Duplicates](#)**
 11. **[Title and Abstract Screening](#)**
 12. **[Full-Text Screening](#)**
