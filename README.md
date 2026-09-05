@@ -26,9 +26,9 @@ Her mentor will guide Maya through each stage of the journey using the steps bel
 1. **[Identify the Research Gap](https://github.com/adnan-mayof/Identify-a-Research-Gap/blob/main/README.md)**
 2. **[Develop the Research Question](https://github.com/adnan-mayof/Develop-the-Research-Question/blob/main/README.md)**
 3. **[Develop Search Terms From PICO/PICOS](https://github.com/adnan-mayof/Develop-Search-Terms-From-PICO-PICOS/blob/main/README.md)**
-6. **[Test and Refine the Search](https://github.com/adnan-mayof/Test-and-Refine-the-Search-Strategy/blob/main/README.md)**
-7. **[Adapt the Search for Each Database](#)**
-8. **[Search the Databases](#)**
+4. **[Test and Refine the Search](https://github.com/adnan-mayof/Test-and-Refine-the-Search-Strategy/blob/main/README.md)**
+5. **[Search the Databases](https://github.com/adnan-mayof/Search-the-Databases/)**
+7. **[Develop and Register the Protocol](https://github.com/adnan-mayof/Develop-and-Register-the-Protocol)**
 9. **[Download the Search Results](#)**
 10. **[Manage References and Remove Duplicates](#)**
 11. **[Title and Abstract Screening](#)**
