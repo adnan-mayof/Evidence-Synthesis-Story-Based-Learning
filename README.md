@@ -36,7 +36,7 @@ Her mentor will guide Maya through each stage of the journey using the steps bel
 14. **[Data Extraction](https://github.com/adnan-mayof/Data-Extraction/blob/main/README.md)**
  15. **[Decide Whether Meta-Analysis Is Appropriate](https://github.com/adnan-mayof/Decide-Whether-Meta-Analysis-Is-Appropriate/blob/main/README.md)**
 16. **[Prepare the Data for Analysis](https://github.com/adnan-mayof/Prepare-the-Data-for-Analysis/blob/main/README.md)**
-17. **[Calculate Effect Sizes](#)**
+17. **[Calculate Effect Sizes](https://github.com/adnan-mayof/Calculate-Effect-Sizes/blob/main/README.md)**
 18. **[Conduct the Meta-Analysis](#)**
 19. **[Examine Heterogeneity](#)**
 20. **[Examine Moderators](#)**
