@@ -33,7 +33,7 @@ Her mentor will guide Maya through each stage of the journey using the steps bel
 10. **[Title and Abstract Screening](https://github.com/adnan-mayof/Title-and-Abstract-Screening/blob/main/README.md)**
 12. **[Full-Text Screening](https://github.com/adnan-mayof/Full-Text-Screening/blob/main/README.md)**
 13. **[Risk-of-Bias Assessment](https://github.com/adnan-mayof/Risk-of-Bias-Assessment/blob/main/README.md)**
-14. **[Data Extraction](#)**
+14. **[Data Extraction](https://github.com/adnan-mayof/Data-Extraction/blob/main/README.md)**
  15. **[Decide Whether Meta-Analysis Is Appropriate](#)**
 16. **[Prepare the Data for Analysis](#)**
 17. **[Calculate Effect Sizes](#)**
