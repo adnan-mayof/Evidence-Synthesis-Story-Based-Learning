@@ -41,7 +41,7 @@ Her mentor will guide Maya through each stage of the journey using the steps bel
 19. **[Examine Heterogeneity](https://github.com/adnan-mayof/Examine-Heterogeneity/blob/main/README.md)**
 20. **[Examine Moderators](https://github.com/adnan-mayof/Examine-Moderators/blob/main/README.md)**
 21. **[Conduct Meta-Regression](https://github.com/adnan-mayof/Conduct-Meta-Regression/blob/main/README.md)**
-22. **[Conduct Sensitivity Analysis](#)**
+22. **[Conduct Sensitivity Analysis](https://github.com/adnan-mayof/Sensitivity-Analysis/blob/main/README.md)**
 23. **[Interpret the Findings](#)**
 24. **[Develop Evidence-Based Conclusions](#)**
 25. **[Make the Research Reproducible](#)**
