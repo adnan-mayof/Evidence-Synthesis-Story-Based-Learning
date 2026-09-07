@@ -30,18 +30,18 @@ Her mentor will guide Maya through each stage of the journey using the steps bel
 5. **[Search the Databases](https://github.com/adnan-mayof/Search-the-Databases/)**
 6. **[Develop and Register the Protocol](https://github.com/adnan-mayof/Develop-and-Register-the-Protocol)**
 7. **[Download and Manage the Search Results](https://github.com/adnan-mayof/Download-the-Search-Results/blob/main/README.md)**
-10. **[Title and Abstract Screening](https://github.com/adnan-mayof/Title-and-Abstract-Screening/blob/main/README.md)**
-12. **[Full-Text Screening](https://github.com/adnan-mayof/Full-Text-Screening/blob/main/README.md)**
-13. **[Risk-of-Bias Assessment](https://github.com/adnan-mayof/Risk-of-Bias-Assessment/blob/main/README.md)**
-14. **[Data Extraction](https://github.com/adnan-mayof/Data-Extraction/blob/main/README.md)**
- 15. **[Decide Whether Meta-Analysis Is Appropriate](https://github.com/adnan-mayof/Decide-Whether-Meta-Analysis-Is-Appropriate/blob/main/README.md)**
-16. **[Prepare the Data for Analysis](https://github.com/adnan-mayof/Prepare-the-Data-for-Analysis/blob/main/README.md)**
-17. **[Calculate Effect Sizes](https://github.com/adnan-mayof/Calculate-Effect-Sizes/blob/main/README.md)**
-18. **[Conduct the Meta-Analysis](https://github.com/adnan-mayof/Conduct-the-Meta-Analysis/blob/main/README.md)**
-19. **[Examine Heterogeneity](https://github.com/adnan-mayof/Examine-Heterogeneity/blob/main/README.md)**
-20. **[Examine Moderators](https://github.com/adnan-mayof/Examine-Moderators/blob/main/README.md)**
-21. **[Conduct Meta-Regression](https://github.com/adnan-mayof/Conduct-Meta-Regression/blob/main/README.md)**
-22. **[Conduct Sensitivity Analysis](https://github.com/adnan-mayof/Sensitivity-Analysis/blob/main/README.md)**
-23. **[Interpret the Findings](https://github.com/adnan-mayof/Interpret-the-Findings/blob/main/README.md)**
-24. **[Develop Evidence-Based Conclusions](https://github.com/adnan-mayof/Develop-Evidence-Based-Conclusions/blob/main/README.md)**
-25. **[Make the Research Reproducible](https://github.com/adnan-mayof/Make-the-Research-Reproducible/blob/main/README.md)**
+8. **[Title and Abstract Screening](https://github.com/adnan-mayof/Title-and-Abstract-Screening/blob/main/README.md)**
+9.  **[Full-Text Screening](https://github.com/adnan-mayof/Full-Text-Screening/blob/main/README.md)**
+10. **[Data Extraction](https://github.com/adnan-mayof/Data-Extraction/blob/main/README.md)**
+11. **[Risk-of-Bias Assessment](https://github.com/adnan-mayof/Risk-of-Bias-Assessment/blob/main/README.md)**
+12. **[Decide Whether Meta-Analysis Is Appropriate](https://github.com/adnan-mayof/Decide-Whether-Meta-Analysis-Is-Appropriate/blob/main/README.md)**
+13. **[Prepare the Data for Analysis](https://github.com/adnan-mayof/Prepare-the-Data-for-Analysis/blob/main/README.md)**
+14. **[Calculate Effect Sizes](https://github.com/adnan-mayof/Calculate-Effect-Sizes/blob/main/README.md)**
+15. **[Conduct the Meta-Analysis](https://github.com/adnan-mayof/Conduct-the-Meta-Analysis/blob/main/README.md)**
+16. **[Examine Heterogeneity](https://github.com/adnan-mayof/Examine-Heterogeneity/blob/main/README.md)**
+17. **[Examine Moderators](https://github.com/adnan-mayof/Examine-Moderators/blob/main/README.md)**
+18. **[Conduct Meta-Regression](https://github.com/adnan-mayof/Conduct-Meta-Regression/blob/main/README.md)**
+19. **[Conduct Sensitivity Analysis](https://github.com/adnan-mayof/Sensitivity-Analysis/blob/main/README.md)**
+20. **[Interpret the Findings](https://github.com/adnan-mayof/Interpret-the-Findings/blob/main/README.md)**
+21. **[Develop Evidence-Based Conclusions](https://github.com/adnan-mayof/Develop-Evidence-Based-Conclusions/blob/main/README.md)**
+22. **[Make the Research Reproducible](https://github.com/adnan-mayof/Make-the-Research-Reproducible/blob/main/README.md)**
